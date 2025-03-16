@@ -49,3 +49,7 @@ Optimize inference speed for real-time translations.
 
 Read the entire article at: https://medium.com/@sultanularfeen/arabic-to-english-building-a-neural-machine-translation-model-442146e42c72
 
+# Dataset Download
+To train the model, you must download the SPoC dataset or any other dataset of your choice.
+## SPoC Dataset Download: [https://drive.google.com/file/d/1AqL7FlyVwqNKLyFZOGGhvwhSMqx7hBYG/view?usp=sharing](https://drive.google.com/file/d/17v5rId0QeC-i6DmbiodrAKOOL8Wy3yhW/view?usp=drive_link)
+Disclaimer: Due to the size being too large, the dataset is to be downloaded seperately.
