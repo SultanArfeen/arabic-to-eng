@@ -46,3 +46,6 @@ Future Improvements
 Fine-tune on a larger dataset for better accuracy.
 Add support for dialectal Arabic.
 Optimize inference speed for real-time translations.
+
+Read the entire article at: https://medium.com/@sultanularfeen/arabic-to-english-building-a-neural-machine-translation-model-442146e42c72
+
